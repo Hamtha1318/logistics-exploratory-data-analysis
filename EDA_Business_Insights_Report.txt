@@ -1,0 +1,50 @@
+
+EXPLORATORY DATA ANALYSIS OF LOGISTICS PERFORMANCE
+
+1. OBJECTIVE
+Explore shipment data to identify patterns in delivery duration,
+shipping costs, warehouse workload, and delivery status.
+
+2. DATASET
+Total records: 300
+Cities represented: 5
+Shipping methods: 3
+Missing values: 0
+Duplicate rows: 0
+
+Note: The dataset is simulated for educational purposes.
+
+3. KEY PERFORMANCE INDICATORS
+Delivered: 206
+Delayed: 68
+In Transit: 26
+Delivered rate: 68.67%
+Delayed rate: 22.67%
+Average delivery duration: 5.42 days
+Average shipping cost: 782.50
+
+4. KEY FINDINGS
+- Riyadh has the highest average delivery duration
+  in this simulated sample (5.77 days).
+- Standard has the highest average shipping cost
+  (813.77) among the methods.
+- Delivered shipments have the highest average
+  warehouse load (59.26%).
+- Correlations and potential shipping cost outliers were
+  examined to explore relationships and unusual observations.
+
+5. RECOMMENDATIONS
+- Monitor delivery performance by city and shipping method.
+- Investigate unusual shipping charges before making adjustments.
+- Review warehouse workload alongside actual delay records.
+- Repeat the analysis using validated historical operational data.
+- Use more representative data to test whether observed patterns
+  persist over time.
+
+6. LIMITATIONS
+The dataset is randomly generated. The findings describe this
+sample only and must not be treated as actual company performance.
+The generated variables do not establish causal relationships.
+
+TOOLS
+Python, Pandas, NumPy, Matplotlib, Seaborn and Google Colab.

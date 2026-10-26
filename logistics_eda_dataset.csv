@@ -1,0 +1,301 @@
+Shipment_ID,City,Distance_km,Warehouse_Load,Shipping_Method,Shipping_Cost,Delivery_Days,Status
+1001,Riyadh,1070,92,Same Day,491,8,Delivered
+1002,Dammam,289,52,Express,78,1,Delivered
+1003,Mumbai,506,96,Same Day,1182,9,Delivered
+1004,Dammam,311,48,Standard,659,9,Delivered
+1005,Dammam,190,32,Express,854,5,Delayed
+1006,Dubai,616,65,Standard,124,10,Delayed
+1007,Mumbai,1132,54,Same Day,887,4,Delivered
+1008,Mumbai,709,25,Same Day,1219,6,Delayed
+1009,Mumbai,1002,88,Same Day,177,7,Delivered
+1010,Dammam,1149,66,Standard,91,5,Delivered
+1011,Riyadh,200,44,Standard,1429,10,Delivered
+1012,Mumbai,262,85,Standard,90,9,In Transit
+1013,Dammam,990,29,Standard,983,3,Delivered
+1014,Dubai,937,75,Same Day,83,7,Delivered
+1015,Riyadh,1194,49,Same Day,1090,10,Delivered
+1016,Dubai,137,24,Express,1226,10,Delivered
+1017,Riyadh,27,52,Express,1047,5,Delivered
+1018,Dammam,575,84,Standard,1451,7,Delivered
+1019,Chennai,579,37,Same Day,637,2,Delivered
+1020,Riyadh,695,68,Same Day,391,4,Delivered
+1021,Dubai,635,30,Same Day,76,2,Delivered
+1022,Dammam,863,45,Express,1360,7,Delayed
+1023,Riyadh,971,82,Express,695,2,Delivered
+1024,Chennai,164,78,Same Day,780,1,Delivered
+1025,Chennai,499,46,Same Day,217,9,Delayed
+1026,Mumbai,794,68,Same Day,659,1,Delivered
+1027,Mumbai,1137,96,Express,317,8,Delivered
+1028,Dubai,255,52,Same Day,870,2,In Transit
+1029,Riyadh,1072,20,Same Day,504,8,Delivered
+1030,Riyadh,768,40,Standard,955,3,Delivered
+1031,Mumbai,547,74,Standard,1474,6,Delivered
+1032,Riyadh,930,25,Express,971,3,Delivered
+1033,Riyadh,417,100,Same Day,1030,7,Delivered
+1034,Chennai,534,88,Same Day,751,10,Delivered
+1035,Mumbai,837,24,Standard,683,9,Delivered
+1036,Dammam,912,22,Express,179,2,Delivered
+1037,Mumbai,45,72,Standard,1069,5,In Transit
+1038,Dammam,694,42,Standard,1436,6,Delayed
+1039,Chennai,29,72,Standard,868,4,Delivered
+1040,Dubai,330,56,Standard,742,4,Delivered
+1041,Riyadh,521,93,Same Day,1365,4,Delayed
+1042,Chennai,409,93,Same Day,1444,2,Delivered
+1043,Riyadh,663,36,Standard,843,4,Delivered
+1044,Dubai,981,97,Express,78,1,In Transit
+1045,Dubai,480,92,Express,198,6,Delivered
+1046,Chennai,1176,20,Express,1369,1,Delayed
+1047,Dubai,1125,70,Express,60,10,In Transit
+1048,Dammam,843,64,Standard,725,6,Delivered
+1049,Dubai,736,96,Same Day,1186,1,Delivered
+1050,Riyadh,863,23,Express,236,6,Delivered
+1051,Riyadh,60,81,Standard,856,10,Delayed
+1052,Riyadh,584,84,Express,793,8,Delayed
+1053,Riyadh,1158,51,Express,1300,2,Delayed
+1054,Dammam,159,53,Standard,1383,2,Delivered
+1055,Mumbai,323,91,Same Day,147,4,Delayed
+1056,Chennai,579,58,Same Day,104,3,In Transit
+1057,Riyadh,314,45,Standard,672,4,Delivered
+1058,Dubai,691,53,Same Day,713,7,In Transit
+1059,Riyadh,847,73,Standard,807,1,Delayed
+1060,Dubai,1087,22,Standard,455,6,Delayed
+1061,Dubai,1012,69,Standard,118,3,Delivered
+1062,Riyadh,453,31,Same Day,1385,10,Delivered
+1063,Dammam,622,84,Standard,1362,7,Delivered
+1064,Dubai,1002,73,Express,800,10,Delivered
+1065,Dubai,273,24,Same Day,1221,2,Delivered
+1066,Riyadh,1086,76,Same Day,1317,2,Delayed
+1067,Dubai,1013,36,Same Day,1007,4,In Transit
+1068,Dubai,14,66,Same Day,414,1,Delayed
+1069,Riyadh,1136,42,Express,531,3,Delivered
+1070,Riyadh,783,98,Same Day,250,9,Delivered
+1071,Chennai,886,33,Same Day,203,7,Delivered
+1072,Dammam,1001,85,Standard,122,7,Delayed
+1073,Dammam,893,94,Same Day,762,4,Delayed
+1074,Dubai,56,70,Express,345,2,In Transit
+1075,Dammam,876,57,Express,1090,4,Delivered
+1076,Dubai,832,83,Express,1290,6,In Transit
+1077,Chennai,945,57,Express,110,3,Delayed
+1078,Riyadh,665,69,Same Day,988,1,Delivered
+1079,Riyadh,278,49,Same Day,91,8,Delayed
+1080,Riyadh,379,98,Express,74,5,Delivered
+1081,Dammam,645,70,Express,1112,5,Delivered
+1082,Chennai,1139,82,Same Day,180,4,Delivered
+1083,Dammam,666,71,Express,1302,6,Delivered
+1084,Dammam,129,57,Standard,157,3,Delivered
+1085,Chennai,840,98,Express,221,9,Delivered
+1086,Chennai,1091,49,Express,151,5,Delivered
+1087,Chennai,750,70,Standard,915,3,Delivered
+1088,Chennai,126,100,Standard,573,1,Delivered
+1089,Riyadh,800,24,Same Day,324,10,Delivered
+1090,Mumbai,1160,48,Same Day,1117,6,Delivered
+1091,Mumbai,1022,23,Standard,866,2,Delivered
+1092,Chennai,1091,29,Standard,1006,3,Delivered
+1093,Mumbai,643,75,Same Day,1090,1,Delivered
+1094,Mumbai,522,36,Express,379,9,Delivered
+1095,Chennai,811,93,Standard,61,8,Delivered
+1096,Mumbai,1129,36,Same Day,1391,2,Delayed
+1097,Dammam,1151,88,Express,265,8,Delivered
+1098,Dubai,569,53,Standard,388,9,Delivered
+1099,Dubai,497,25,Express,710,1,In Transit
+1100,Chennai,906,72,Same Day,1154,5,Delayed
+1101,Riyadh,713,85,Standard,423,8,In Transit
+1102,Chennai,590,96,Express,1025,2,Delayed
+1103,Riyadh,799,62,Standard,759,4,Delivered
+1104,Dubai,870,94,Express,1273,7,Delivered
+1105,Chennai,256,42,Same Day,515,3,Delivered
+1106,Dammam,1109,74,Same Day,1162,5,Delivered
+1107,Mumbai,163,99,Standard,1341,8,Delivered
+1108,Riyadh,1006,94,Express,538,10,Delivered
+1109,Mumbai,1119,35,Standard,96,3,Delivered
+1110,Mumbai,706,27,Standard,1361,4,Delayed
+1111,Chennai,1102,23,Express,827,9,Delayed
+1112,Mumbai,1080,23,Express,1089,7,Delivered
+1113,Dammam,1018,75,Express,760,1,Delayed
+1114,Mumbai,103,44,Same Day,450,4,Delivered
+1115,Chennai,967,86,Standard,1030,4,Delayed
+1116,Dammam,1021,86,Standard,1159,9,Delivered
+1117,Dubai,462,46,Same Day,299,6,In Transit
+1118,Mumbai,921,51,Express,440,9,Delayed
+1119,Chennai,227,69,Same Day,384,6,Delivered
+1120,Dubai,483,80,Same Day,678,6,Delivered
+1121,Dubai,441,70,Same Day,186,5,Delivered
+1122,Riyadh,350,38,Standard,932,5,Delivered
+1123,Dammam,560,40,Same Day,737,2,Delivered
+1124,Mumbai,366,24,Standard,876,8,Delivered
+1125,Chennai,32,61,Standard,776,8,Delivered
+1126,Riyadh,531,80,Standard,643,1,Delayed
+1127,Dammam,1133,41,Express,1296,8,In Transit
+1128,Riyadh,811,40,Standard,1039,5,Delivered
+1129,Dammam,771,89,Standard,421,2,Delivered
+1130,Dammam,451,20,Express,984,2,Delivered
+1131,Mumbai,778,24,Standard,1044,6,Delayed
+1132,Dammam,1025,31,Same Day,451,9,Delivered
+1133,Riyadh,525,65,Same Day,664,1,In Transit
+1134,Dammam,1049,53,Standard,1346,6,Delayed
+1135,Mumbai,801,68,Express,1232,9,Delivered
+1136,Mumbai,345,97,Same Day,1225,8,Delivered
+1137,Riyadh,267,64,Express,1044,6,Delayed
+1138,Dubai,506,46,Express,669,3,Delayed
+1139,Dubai,905,92,Same Day,237,8,Delivered
+1140,Dammam,169,45,Express,1171,9,Delivered
+1141,Chennai,861,66,Same Day,180,1,Delayed
+1142,Dammam,699,75,Express,854,9,Delivered
+1143,Riyadh,389,82,Same Day,1244,6,In Transit
+1144,Riyadh,966,67,Standard,985,6,Delivered
+1145,Riyadh,700,80,Same Day,1035,4,Delivered
+1146,Riyadh,1076,100,Same Day,232,1,Delayed
+1147,Riyadh,294,45,Same Day,1032,10,Delivered
+1148,Mumbai,406,55,Same Day,413,8,Delivered
+1149,Dubai,21,20,Express,88,2,Delivered
+1150,Riyadh,508,27,Standard,546,1,Delivered
+1151,Chennai,763,71,Same Day,1422,2,Delivered
+1152,Chennai,44,98,Express,1031,1,Delivered
+1153,Chennai,736,66,Standard,970,1,Delivered
+1154,Chennai,858,75,Standard,1470,9,Delayed
+1155,Mumbai,99,33,Standard,771,1,Delivered
+1156,Chennai,785,47,Standard,1234,4,Delivered
+1157,Riyadh,614,97,Same Day,65,10,Delivered
+1158,Dammam,979,21,Same Day,542,6,In Transit
+1159,Chennai,1031,45,Express,1499,7,Delayed
+1160,Mumbai,427,33,Express,1181,2,Delivered
+1161,Mumbai,124,78,Express,943,6,Delivered
+1162,Chennai,626,75,Standard,360,7,Delivered
+1163,Dammam,835,26,Standard,788,10,Delayed
+1164,Chennai,1108,22,Same Day,1243,10,Delayed
+1165,Mumbai,422,42,Standard,595,2,Delayed
+1166,Dubai,738,37,Standard,463,2,Delayed
+1167,Riyadh,1030,57,Standard,300,10,Delayed
+1168,Mumbai,770,34,Express,808,7,Delivered
+1169,Chennai,685,83,Express,1214,1,Delivered
+1170,Riyadh,466,47,Same Day,1347,8,Delivered
+1171,Chennai,929,93,Standard,1489,3,Delivered
+1172,Chennai,201,58,Standard,1112,6,Delayed
+1173,Dubai,748,76,Same Day,863,9,Delivered
+1174,Riyadh,1132,36,Standard,78,6,Delivered
+1175,Riyadh,987,63,Standard,1007,9,Delivered
+1176,Dubai,1018,44,Express,526,7,Delivered
+1177,Mumbai,105,36,Same Day,367,9,Delivered
+1178,Chennai,672,32,Same Day,294,2,Delivered
+1179,Dammam,46,44,Same Day,797,8,Delivered
+1180,Chennai,288,87,Same Day,746,8,Delivered
+1181,Chennai,226,29,Express,321,2,Delivered
+1182,Mumbai,876,86,Express,1312,4,Delivered
+1183,Chennai,882,37,Standard,426,7,Delivered
+1184,Dubai,71,53,Standard,315,4,Delivered
+1185,Dubai,605,27,Standard,975,4,Delivered
+1186,Riyadh,738,59,Standard,970,6,Delayed
+1187,Dammam,406,61,Express,1432,10,Delivered
+1188,Chennai,708,60,Same Day,389,6,Delivered
+1189,Chennai,1052,25,Express,438,10,Delayed
+1190,Mumbai,186,71,Standard,626,3,Delivered
+1191,Dubai,405,45,Express,52,9,Delivered
+1192,Dammam,454,83,Same Day,1215,10,Delayed
+1193,Riyadh,85,78,Same Day,425,2,Delivered
+1194,Dubai,274,75,Express,373,6,Delivered
+1195,Riyadh,464,78,Express,195,7,In Transit
+1196,Mumbai,727,89,Express,342,9,Delayed
+1197,Mumbai,744,52,Standard,481,3,Delivered
+1198,Chennai,860,72,Express,754,10,Delivered
+1199,Dammam,153,41,Express,998,3,Delivered
+1200,Riyadh,894,40,Express,634,7,Delivered
+1201,Dubai,1102,89,Same Day,448,4,Delivered
+1202,Mumbai,1132,89,Same Day,866,8,Delivered
+1203,Chennai,405,23,Standard,1417,7,Delivered
+1204,Chennai,1058,94,Standard,1013,5,Delivered
+1205,Riyadh,957,81,Same Day,1213,7,Delayed
+1206,Mumbai,900,81,Same Day,236,3,Delayed
+1207,Dammam,1184,43,Same Day,110,2,Delivered
+1208,Mumbai,1177,74,Express,988,6,Delivered
+1209,Riyadh,578,28,Express,1453,2,Delivered
+1210,Riyadh,1072,22,Same Day,759,3,Delivered
+1211,Mumbai,118,50,Express,856,6,Delayed
+1212,Riyadh,1075,59,Express,1392,5,Delivered
+1213,Mumbai,944,55,Standard,1375,8,Delivered
+1214,Dubai,407,43,Same Day,1417,9,Delivered
+1215,Mumbai,643,25,Same Day,60,3,Delivered
+1216,Mumbai,1166,85,Express,1135,10,Delivered
+1217,Riyadh,1196,94,Same Day,275,3,Delivered
+1218,Riyadh,742,23,Standard,1226,3,In Transit
+1219,Chennai,244,98,Standard,613,6,Delivered
+1220,Chennai,667,25,Standard,821,1,Delivered
+1221,Dubai,760,70,Same Day,1383,7,Delivered
+1222,Chennai,597,81,Same Day,934,1,Delivered
+1223,Mumbai,1042,76,Same Day,1316,5,In Transit
+1224,Riyadh,1107,85,Same Day,1439,10,Delivered
+1225,Chennai,963,98,Same Day,1403,8,Delayed
+1226,Chennai,501,94,Standard,1180,4,Delivered
+1227,Dubai,922,27,Express,275,5,Delivered
+1228,Dubai,179,45,Standard,874,4,Delivered
+1229,Mumbai,955,70,Same Day,267,4,Delayed
+1230,Riyadh,804,64,Standard,986,8,Delivered
+1231,Dubai,643,63,Same Day,802,2,Delivered
+1232,Chennai,38,24,Same Day,555,1,In Transit
+1233,Riyadh,1198,89,Standard,308,3,Delivered
+1234,Riyadh,348,45,Same Day,103,9,Delivered
+1235,Chennai,509,87,Express,1120,4,Delivered
+1236,Dubai,520,38,Same Day,776,10,In Transit
+1237,Chennai,226,39,Express,738,5,Delivered
+1238,Riyadh,1165,31,Express,1172,2,Delayed
+1239,Dammam,1103,66,Same Day,1093,4,Delayed
+1240,Dammam,454,20,Standard,468,2,Delivered
+1241,Mumbai,885,33,Express,739,2,Delayed
+1242,Chennai,176,83,Standard,899,4,Delivered
+1243,Chennai,100,57,Express,111,6,Delivered
+1244,Mumbai,723,56,Same Day,1218,7,Delayed
+1245,Mumbai,48,30,Same Day,265,10,Delayed
+1246,Mumbai,1159,96,Express,52,3,Delivered
+1247,Riyadh,182,22,Same Day,209,3,Delivered
+1248,Chennai,662,52,Express,830,10,Delivered
+1249,Riyadh,763,25,Same Day,1193,6,Delivered
+1250,Mumbai,1091,69,Standard,942,3,Delivered
+1251,Chennai,485,29,Same Day,1162,2,Delivered
+1252,Riyadh,465,24,Standard,378,8,Delivered
+1253,Riyadh,838,42,Same Day,629,5,Delivered
+1254,Mumbai,904,29,Standard,1430,1,Delivered
+1255,Chennai,1034,63,Same Day,1340,3,Delivered
+1256,Mumbai,396,21,Standard,1001,10,Delivered
+1257,Chennai,357,32,Express,1396,8,Delayed
+1258,Dammam,199,59,Express,684,4,Delivered
+1259,Dubai,514,21,Standard,1037,7,In Transit
+1260,Dubai,833,84,Same Day,1268,10,Delayed
+1261,Dubai,938,82,Standard,970,2,Delivered
+1262,Mumbai,943,92,Same Day,787,7,Delayed
+1263,Dammam,1150,36,Express,1405,5,Delivered
+1264,Chennai,143,28,Same Day,219,5,Delivered
+1265,Riyadh,67,94,Express,570,6,Delivered
+1266,Chennai,694,34,Same Day,89,9,Delivered
+1267,Riyadh,681,43,Same Day,1334,6,Delivered
+1268,Chennai,182,57,Same Day,1468,8,Delivered
+1269,Dammam,824,54,Standard,1004,7,Delivered
+1270,Riyadh,1182,68,Standard,1299,9,Delayed
+1271,Mumbai,89,88,Express,1033,4,Delivered
+1272,Chennai,895,81,Express,1197,2,Delayed
+1273,Chennai,212,79,Standard,1024,7,Delivered
+1274,Riyadh,773,69,Express,87,6,Delivered
+1275,Mumbai,56,97,Standard,377,1,Delayed
+1276,Mumbai,1176,94,Same Day,1324,9,Delivered
+1277,Dammam,665,28,Express,1249,9,Delivered
+1278,Mumbai,480,53,Express,963,2,Delivered
+1279,Mumbai,980,95,Standard,503,3,Delivered
+1280,Mumbai,1045,54,Express,86,5,In Transit
+1281,Dubai,745,20,Express,1389,5,Delivered
+1282,Dammam,793,59,Same Day,1022,1,In Transit
+1283,Chennai,977,83,Express,845,8,Delivered
+1284,Riyadh,367,41,Same Day,1022,8,Delivered
+1285,Chennai,981,79,Standard,642,4,Delivered
+1286,Dammam,677,83,Express,1187,7,Delivered
+1287,Riyadh,382,91,Same Day,1113,10,Delivered
+1288,Dammam,1041,30,Standard,1374,3,Delayed
+1289,Mumbai,1155,33,Express,273,6,Delayed
+1290,Riyadh,685,79,Standard,367,10,Delivered
+1291,Mumbai,99,49,Express,398,10,In Transit
+1292,Chennai,707,54,Standard,164,9,Delayed
+1293,Chennai,549,56,Standard,747,1,Delayed
+1294,Riyadh,741,24,Same Day,1396,5,Delivered
+1295,Riyadh,878,97,Standard,1113,4,Delivered
+1296,Dammam,50,45,Express,89,8,Delivered
+1297,Dammam,749,81,Express,1362,1,Delivered
+1298,Mumbai,511,23,Same Day,1335,9,Delivered
+1299,Riyadh,968,61,Express,265,6,Delayed
+1300,Chennai,1178,37,Express,1220,4,Delivered
